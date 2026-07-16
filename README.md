@@ -6,7 +6,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=27&duration=3200&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=Fatima+Batool;Cyber+Soul+%F0%9F%8C%8C+|+BS+Cyber+Security+Student;Network+%2B+Security+%2B+Code+%F0%9F%94%90;Python+%7C+Cryptography+%7C+CCNA+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=3200&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=Fatima+Batool;Cyber+Soul+%F0%9F%8C%8C+|+BS+Cyber+Security+Student;Network+%2B+Security+%2B+Code+%F0%9F%94%90;Python+%7C+Cryptography+%7C+CCNA+%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -19,7 +19,7 @@
   🌙 <b>Curious Mind</b> &nbsp;|&nbsp; 🧠 <b>Cyber Learner</b> &nbsp;|&nbsp; 🔐 <b>Security Enthusiast</b> &nbsp;|&nbsp; ⚡ <b>Digital Dreamer</b>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 
 ### 🧠 About Me
 
@@ -115,7 +115,7 @@ Cybersecurity is my creative logic — part curiosity, part defense, part code.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FatimaBatool-1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8A2BE2&text_color=E0EFFF" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FatimaBatool-1&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=8A2BE2&currStreakLabel=00D9FF" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=FatimaBatool-1&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=8A2BE2&currStreakLabel=00D9FF" height="165" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaBatool-1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" height="130" />
