@@ -111,6 +111,27 @@ Cybersecurity is my creative logic — part curiosity, part defense, part code.
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=8A2BE2&height=3&section=header" width="100%" />
 </div>
 
+### 🏅 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CCNA-Cisco%20Certified-00D9FF?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1B1464" />
+  <img src="https://img.shields.io/badge/Cyber%20Security-BS%20In%20Progress-8A2BE2?style=for-the-badge&logo=hackaday&logoColor=white&labelColor=1B1464" />
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=00D9FF&height=3&section=header" width="100%" />
+</div>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FatimaBatool-1&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=8A2BE2&height=3&section=header" width="100%" />
+</div>
+
 ### 📊 GitHub Stats
 
 <p align="center">
