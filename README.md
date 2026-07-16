@@ -111,10 +111,10 @@ Cybersecurity is my creative logic — part curiosity, part defense, part code.
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=8A2BE2&height=3&section=header" width="100%" />
 </div>
 
-### 🏅 Certifications
+### 🏅 Certifications & Courses
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CCNA-Cisco%20Certified-00D9FF?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1B1464" />
+  <img src="https://img.shields.io/badge/CCNA-Course%20Completed%20(Certificate%20Pending)-00D9FF?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1B1464" />
   <img src="https://img.shields.io/badge/Cyber%20Security-BS%20In%20Progress-8A2BE2?style=for-the-badge&logo=hackaday&logoColor=white&labelColor=1B1464" />
 </p>
 
